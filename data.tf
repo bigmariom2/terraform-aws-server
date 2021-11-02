@@ -1,5 +1,4 @@
 
-
 data "aws_ami" "windows_2019" {
   most_recent = true
   filter {
